@@ -1,2 +1,3 @@
 # html-portfolio
-Practice website for hosting my projects as I learn web development from scratch. 
+This is a practice website for hosting my projects and portfolio as I learn web development. 
+
